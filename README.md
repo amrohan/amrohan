@@ -11,6 +11,5 @@ Skills: PYTHON/ C / C++/ JS / HTML / CSS
 - <img src="https://img.icons8.com/color/12/fa314a/critical-thinking--v2.png"/> I’m currently learning Advanced python  
 - <img src="https://img.icons8.com/ios-filled/12/fa314a/speech-bubble--v2.png"/> How to reach me: rohansalunkhe939@gmail.com 
 
-### [<img src="https://img.icons8.com/ios/50/fa314a/instagram-new--v2.png"/>](am_rohan012) [<img src="https://img.icons8.com/ios/50/fa314a/facebook--v2.png"/>](https://www.facebook.com/rohan.salunkhe.9889) [<img src="https://img.icons8.com/ios/50/fa314a/twitter--v3.png"/>](amrohan012)
- 
+### [<img src="https://img.icons8.com/ios/30/fa314a/instagram-new--v3.png"/>](https://www.instagram.com/am_rohan12/) [<img src="https://img.icons8.com/ios/30/fa314a/facebook--v2.png"/>](https://www.facebook.com/rohan.salunkhe.9889) [<img src="https://img.icons8.com/ios/30/fa314a/twitter-circled--v2.png"/>](https://twitter.com/Amrohan012?s=08) [<img src="https://img.icons8.com/ios/30/fa314a/github.png"/>](https://github.com/amrohan)
 ![Profile views](https://gpvc.arturio.dev/amrohan)  
