@@ -7,7 +7,7 @@ It's an honor for me to share my passions, stories, and abilities with you. Belo
 Skills: PYTHON/ C / C++/ JS / HTML / CSS
 
 - 🔭 I’m currently working on new gaming project 
-- <img src="https://img.icons8.com/ios/12/fa314a/internet--v2.png"/> My [website](amrohan.ml)
+- <img src="https://img.icons8.com/ios/12/fa314a/internet--v2.png"/> My [website](https://amrohan.ml)
 - <img src="https://img.icons8.com/color/12/fa314a/critical-thinking--v2.png"/> I’m currently learning Advanced python  
 - <img src="https://img.icons8.com/ios-filled/12/fa314a/speech-bubble--v2.png"/> How to reach me: rohansalunkhe939@gmail.com 
 
