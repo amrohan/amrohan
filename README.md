@@ -1,6 +1,6 @@
 ### Hello!👋,&nbsp; I am Rohan Salunkhe.
 <p align="center">
-  <img width=600px, height= 250vh src="banner.gif"/>
+  <img width=600px, height= 380vh src="banner.gif"/>
 </p>
 
 It's an honor for me to share my passions, stories, and abilities with you. Below is a sampling of the many things I've accomplished.
