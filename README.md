@@ -1,13 +1,12 @@
-### Hi there 👋, my name is Rohan Salunkhe
-#### Programmer and Game Developer
-![Programmer and Game Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwjxK1Skybafj-TL5mEC-_CJp5xwexjgiVPg&usqp=CAU)
+### Hi there 👋,&nbsp; I'am Rohan Salunkhe
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwjxK1Skybafj-TL5mEC-_CJp5xwexjgiVPg&usqp=CAU)
 
 It's an honor for me to share my passions, stories, and abilities with you. Below is a sampling of the many things I've accomplished.
 
-Skills: PYTHON/ C / C++/ JS / HTML / CSS / React / Nextjs/
+Skills: PYTHON/ C / C++/ JS / JAVA / HTML / CSS / React / Nextjs/
 
-- 🔭 I’m currently working on new gaming project 
-- <img src="https://img.icons8.com/ios/12/fa314a/internet--v2.png"/> My [WEBSITE](https://amrohan.ml)
+- 🔭 I’m currently working on Website.
+- <img src="https://img.icons8.com/ios/12/fa314a/internet--v2.png"/> My [WEBSITE](https://rohan.ml)
 - <img src="https://img.icons8.com/color/12/fa314a/critical-thinking--v2.png"/> I’m currently learning Advanced python  
 - <img src="https://img.icons8.com/ios-filled/12/fa314a/speech-bubble--v2.png"/> How to reach me: rohansalunkhe939@gmail.com 
 
