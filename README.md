@@ -10,5 +10,10 @@ Skills: PYTHON/ C / C++/ JS / JAVA / HTML / CSS / React / Nextjs/
 - <img src="https://img.icons8.com/color/12/fa314a/critical-thinking--v2.png"/> I’m currently learning advanced Python.
 - <img src="https://img.icons8.com/ios-filled/12/fa314a/speech-bubble--v2.png"/> Contact Me: itsforme012@gmail.com
 
+#### Now Playing 🎵
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/kgzfm4xv0udlhp30f5dhy2uci?si=DIgKkhTqSw--wyDtBe2apw&utm_source=copy-link&dl_branch=1)
+<br/>
+---
+
 ### [<img src="https://img.icons8.com/ios/30/fa314a/instagram-new--v3.png"/>](https://www.instagram.com/amrohann/) [<img src="https://img.icons8.com/ios/30/fa314a/facebook--v2.png"/>](https://www.facebook.com/amrohann) [<img src="https://img.icons8.com/ios/30/fa314a/twitter-circled--v2.png"/>](https://twitter.com/Amrohann) [<img src="https://img.icons8.com/ios/30/fa314a/github.png"/>](https://github.com/amrohan)
 ![Profile views](https://gpvc.arturio.dev/amrohan)  
