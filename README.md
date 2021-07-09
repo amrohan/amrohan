@@ -12,7 +12,7 @@ It's an honor for me to share my passions, stories, and abilities with you. Belo
 
 
 ### Skills 
-PYTHON, C/C++, JS, JAVA, HTML, CSS, React, Nextjs.
+Python, C/C++, Js, Java, Html & Css, React, Nextjs.
 
 #### Currently playing 🎧
 [![Spotify](https://myspotify-api.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
