@@ -1,7 +1,5 @@
 ## Hello!👋,&nbsp; I am Rohan Salunkhe.
-<p align="center">
-  <img width=600px, height= 380vh src="banner.gif"/>
-</p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwjxK1Skybafj-TL5mEC-_CJp5xwexjgiVPg&usqp=CAU"/>
 
 It's an honor for me to share my passions, stories, and abilities with you. Below is a sampling of the many things I've accomplished.
 
