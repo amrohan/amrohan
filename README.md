@@ -13,7 +13,7 @@ It's an honor for me to share my passions, stories, and abilities with you. Belo
 Python, C/C++, Js, Java, Html & Css, React, Nextjs.
 
 #### Currently playing 🎧
-[![Spotify](https://my-spotify-api.vercel.app/api/spotify)](https://open.spotify.com/user/kgzfm4xv0udlhp30f5dhy2uci)
+[![Spotify](https://amrohann.vercel.app/api/spotify)](https://open.spotify.com/user/kgzfm4xv0udlhp30f5dhy2uci)
 
 ### Contact Me
 [<img src="https://img.icons8.com/nolan/30/instagram-new.png"/>](https://www.instagram.com/amrohann/) 
