@@ -10,7 +10,7 @@ It's an honor for me to share my passions, stories, and abilities with you. Belo
 
 
 ### Skills 
-Python, C/C++, Js, Java, Html & Css, React, Nextjs.
+Python, C/C++, Js, Java, Html & Css, React.
 
 #### Currently playing 🎧
 [![Spotify](https://amrohann.vercel.app/api/spotify)](https://open.spotify.com/user/kgzfm4xv0udlhp30f5dhy2uci)
