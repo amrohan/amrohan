@@ -16,8 +16,8 @@ Python, C/C++, Js, Java, Html & Css, React.
 [![Spotify](https://amrohann.vercel.app/api/spotify)](https://open.spotify.com/user/kgzfm4xv0udlhp30f5dhy2uci)
 
 ### Contact Me
-[<img src="https://img.icons8.com/nolan/30/instagram-new.png"/>](https://www.instagram.com/amrohann/) 
+[<img src="https://img.icons8.com/nolan/30/instagram-new.png"/>](https://www.instagram.com/amrohansalunkhe) 
 [<img src="https://img.icons8.com/nolan/30/telegram-app.png"/>](https://t.me/amrohan)
-[<img src="https://img.icons8.com/nolan/30/twitter.png"/>](https://twitter.com/Amrohann)
+[<img src="https://img.icons8.com/nolan/30/twitter.png"/>](https://twitter.com/amrohansalunkhe) 
 [<img src="https://img.icons8.com/nolan/30/github.png"/>](https://github.com/amrohan)\
 ![Profile views](https://gpvc.arturio.dev/amrohan) 
