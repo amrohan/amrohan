@@ -1,23 +1,27 @@
-## Hello!👋,&nbsp; I am Rohan Salunkhe.
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwjxK1Skybafj-TL5mEC-_CJp5xwexjgiVPg&usqp=CAU"/>
+![Profile views](https://gpvc.arturio.dev/amrohan) 
+# Hello!👋,&nbsp; I am Rohan Salunkhe.
+[![Spotify](https://amrohann.vercel.app/api/spotify)](https://open.spotify.com/user/kgzfm4xv0udlhp30f5dhy2uci)
+
 
 It's an honor for me to share my passions, stories, and abilities with you. Below is a sampling of the many things I've accomplished.
 
-### What I'm doing right now
+## What I'm doing right now
 - I’m currently working on [website](https://rohan.ml).
 - At the moment, I'm studying advanced Python.
 - Learning out about API and Data Bases.
 
 
-### Skills 
+### Skills:
 Python, C/C++, Js, Java, Html & Css, React.
 
-#### Currently playing 🎧
-[![Spotify](https://amrohann.vercel.app/api/spotify)](https://open.spotify.com/user/kgzfm4xv0udlhp30f5dhy2uci)
+#### Stats
+![Rohan's GitHub stats](https://amrohanx.vercel.app/api?username=amrohan&show_icons=true&theme=radical&count_private=true)
+
+
+
 
 ### Contact Me
 [<img src="https://img.icons8.com/nolan/30/instagram-new.png"/>](https://www.instagram.com/amrohann) 
 [<img src="https://img.icons8.com/nolan/30/telegram-app.png"/>](https://t.me/amrohan)
 [<img src="https://img.icons8.com/nolan/30/twitter.png"/>](https://twitter.com/amrohann) 
-[<img src="https://img.icons8.com/nolan/30/github.png"/>](https://github.com/amrohan)\
-![Profile views](https://gpvc.arturio.dev/amrohan) 
+[<img src="https://img.icons8.com/nolan/30/github.png"/>](https://github.com/amrohan)
