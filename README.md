@@ -24,4 +24,4 @@ Python, C/C++, Js, Java, Html & Css, React.
 [<img src="https://img.icons8.com/nolan/30/instagram-new.png"/>](https://www.instagram.com/amrohann) 
 [<img src="https://img.icons8.com/nolan/30/telegram-app.png"/>](https://t.me/amrohan)
 [<img src="https://img.icons8.com/nolan/30/twitter.png"/>](https://twitter.com/rohansalunkhe_) 
-[<img src="https://img.icons8.com/nolan/30/github.png"/>](https://github.com/rohansalunkhe_)
+[<img src="https://img.icons8.com/nolan/30/github.png"/>](https://github.com/amrohan)
