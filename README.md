@@ -23,8 +23,8 @@ Python, C/C++, Js, Java, Html & Css, React , .NET.
 
 ### Contact Me
 
-[<img src="./assets/Images/instagram.png"/>](https://www.instagram.com/amrohann)
-[<img src="./assets/Images/telegram.png"/>](https://t.me/amrohan)
-[<img src="./assets/Images/github.png" />](https://github.com/amrohan)
-[<img src="./assets/Images/reddit.png" />](https://www.reddit.com/user/amrohann)
-[<img src="./assets/Images/twitter.png"/>](https://twitter.com/rohansalunkhe_)
+[<img src="/assets/Images/instagram.png"/>](https://www.instagram.com/amrohann)
+[<img src="/assets/Images/telegram.png"/>](https://t.me/amrohan)
+[<img src="/assets/Images/github.png" />](https://github.com/amrohan)
+[<img src="/assets/Images/reddit.png" />](https://www.reddit.com/user/amrohann)
+[<img src="/assets/Images/twitter.png"/>](https://twitter.com/rohansalunkhe_)
