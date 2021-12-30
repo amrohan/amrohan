@@ -7,8 +7,7 @@
 It's an honor for me to share my passions, stories, and abilities with you. Below is a sampling of the many things I've accomplished.
 
 ## What I'm doing right now
-
-- I’m currently working on [website](https://rohan.ml).
+- I’m currently working on [website](https://amrohan.com).
 - At the moment, I'm studying advanced Python.
 - Learning out about API and Data Bases.
 - Also learning about .NET
