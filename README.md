@@ -10,11 +10,10 @@ It's an honor for me to share my passions, stories, and abilities with you. Belo
 - I’m currently working on [website](https://amrohan.com).
 - At the moment, I'm studying advanced Python.
 - Learning out about API and Data Bases.
-- Also learning about .NET
 
 ### Skills:
 
-Python, C/C++, Js, Java, Html & Css, React , .NET.
+Python, C/C++, Js, Java, Html & Css, React
 
 ### Stats
 
