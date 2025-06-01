@@ -1,28 +1,66 @@
-![Profile views](https://gpvc.arturio.dev/amrohan)
+# Rohan Salunkhe — Full Stack Engineer
 
-# Hello!👋,&nbsp; I am Rohan Salunkhe.
+I'm a software engineer focused on building **scalable systems**, **modern web applications**, and **clean architecture**. My work spans from performant UIs to backend services that are resilient, testable, and production-ready.
 
-[![Spotify](https://amrohann.vercel.app/api/spotify)](https://open.spotify.com/user/kgzfm4xv0udlhp30f5dhy2uci)
+With a deep interest in **software architecture**, **developer tooling**, and **cloud infrastructure**, I enjoy turning complex problems into simple, maintainable solutions.
 
-It's an honor for me to share my passions, stories, and abilities with you. Below is a sampling of the many things I've accomplished.
+---
 
-## What I'm doing right now
-- I’m currently working on [website](https://amrohan.com).
-- At the moment, I'm studying advanced Python.
-- Learning out about API and Data Bases.
+## ⚙️ Current Focus
 
-### Skills:
+- 🧱 Designing and building modular, cleanly architected systems using **.NET Core** and **Node.js**
+- 🌐 Developing modern frontends with **Angular** and **React**
+- 📚 Studying **software architecture patterns**: monoliths, microservices, DDD, and event-driven design
+- ☁️ Automating workflows with **Docker**, **GitHub Actions**, and **Google Cloud**
+- 🧠 Exploring **RxJS**, **Rust**, and performance-first engineering
 
-Python, C/C++, Js, Java, Html & Css, React
+---
 
-### Stats
+## 🛠️ Tech Stack
 
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=amrohan&show_icons=true&theme=radical&count_private=true)
+### Frontend
+- Angular, React, Next.js, TypeScript, Tailwind CSS, Angular Material 3, MUI
 
-### Contact Me
+### Backend
+- .NET Core, Node.js, Express.js, REST APIs, RxJS
 
-[<img src="/assets/Images/instagram.png"/>](https://www.instagram.com/amrohxn)
-[<img src="/assets/Images/telegram.png"/>](https://t.me/amrohan)
-[<img src="/assets/Images/github.png" />](https://github.com/amrohan)
-[<img src="/assets/Images/reddit.png" />](https://www.reddit.com/user/amrohann)
-[<img src="/assets/Images/twitter.png"/>](https://twitter.com/amrohxn)
+### Database
+- PostgreSQL, SQLite, MongoDB, Entity Framework, SQL
+
+### DevOps & Platform
+- Docker, GitHub Actions, Vercel, Netlify, Cloudflare pages, Google Cloud Platform, Linux (Debian)
+
+### Tools
+- VS Code, Bash, Git, Neovim
+
+---
+
+## 🧠 Engineering Philosophy
+
+- **Clarity over cleverness** – readable, maintainable code wins.
+- **Own the stack** – from database schema to deployment.
+- **Systems thinking** – understand the interactions, not just the parts.
+- **Code for change** – software should evolve without friction.
+- **Stay curious** – frameworks change, fundamentals last.
+
+---
+
+## 📊 GitHub Insights
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amrohan&layout=compact&theme=rose_pine)
+
+---
+
+## 🤝 Connect with Me
+
+- 🧑‍💻 [GitHub](https://github.com/amrohan)
+- 🧵 [Twitter](https://twitter.com/amrohxn)
+- 📷 [Instagram](https://www.instagram.com/amrohxn)
+- 💬 [Telegram](https://t.me/amrohan)
+- 👽 [Reddit](https://www.reddit.com/user/amrohann)
+
+---
+
+> *"First make it work. Then make it right. Then make it fast."* – Kent Beck  
+
+> *"Senior bug creator. Junior bug blamer."* – Rohan Salunkhe
