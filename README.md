@@ -12,7 +12,7 @@ With a deep interest in **software architecture**, **developer tooling**, and **
 - 🌐 Developing modern frontends with **Angular** and **React**
 - 📚 Studying **software architecture patterns**: monoliths, microservices, DDD, and event-driven design
 - ☁️ Automating workflows with **Docker**, **GitHub Actions**, and **Google Cloud**
-- 🧠 Exploring **RxJS**, **Rust**, and performance-first engineering
+- 🧠 Exploring **RxJS**, **Go**, and performance-first engineering
 
 ---
 
